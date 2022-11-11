@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cat-fact/static/css/main.9ec9f482.css",
+    "main.js": "/cat-fact/static/js/main.e26ce3d1.js",
+    "index.html": "/cat-fact/index.html",
+    "main.9ec9f482.css.map": "/cat-fact/static/css/main.9ec9f482.css.map",
+    "main.e26ce3d1.js.map": "/cat-fact/static/js/main.e26ce3d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ec9f482.css",
+    "static/js/main.e26ce3d1.js"
+  ]
+}
